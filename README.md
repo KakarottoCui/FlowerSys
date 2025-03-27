@@ -1,7 +1,7 @@
 # FlowerSys
 基于SSM的鲜花商店、鲜花商城
 
-演示视频连接：https://live.csdn.net/v/204132
+演示视频连接：https://www.bilibili.com/video/BV1aS4y1w7q8/
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
 
